@@ -1,0 +1,499 @@
+id_viaje,id_conductor,origen,destino,fecha_hora,asientos_disponibles,costo_persona,estado
+VJ001,U067,Pueblo Libre,Campus Universitario,2026-06-01 07:45,1,4.5,Completado
+VJ002,U008,Campus Universitario,Pueblo Libre,2026-06-01 17:00,3,4.0,Completado
+VJ003,U025,Callao,Campus Universitario,2026-06-02 08:15,2,5.5,Completado
+VJ004,U061,San Juan de Lurigancho,Campus Universitario,2026-06-02 07:45,2,8.5,Completado
+VJ005,U041,Campus Universitario,Barranco,2026-06-01 20:30,3,5.0,Completado
+VJ006,U027,Independencia,Campus Universitario,2026-06-02 09:15,2,7.0,Completado
+VJ007,U036,Villa El Salvador,Campus Universitario,2026-06-03 06:45,3,12.0,Completado
+VJ008,U020,Campus Universitario,Miraflores,2026-06-02 18:15,0,5.0,Completado
+VJ009,U091,Los Olivos,Campus Universitario,2026-06-02 07:00,4,8.5,Completado
+VJ010,U092,Callao,Campus Universitario,2026-06-01 07:00,0,5.0,Completado
+VJ011,U022,La Molina,Campus Universitario,2026-06-03 08:15,2,8.0,Completado
+VJ012,U099,Campus Universitario,San Isidro,2026-06-01 19:45,0,5.0,Completado
+VJ013,U080,San Juan de Lurigancho,Campus Universitario,2026-06-03 07:45,3,10.5,Completado
+VJ014,U067,Villa El Salvador,Campus Universitario,2026-06-02 07:45,1,11.5,Completado
+VJ015,U023,San Isidro,Campus Universitario,2026-06-02 06:30,2,6.0,Completado
+VJ016,U041,Campus Universitario,Barranco,2026-06-02 20:30,0,5.5,Completado
+VJ017,U003,Independencia,Campus Universitario,2026-06-03 06:15,5,8.0,Completado
+VJ018,U020,Miraflores,Campus Universitario,2026-06-04 08:45,1,5.0,Completado
+VJ019,U080,San Juan de Lurigancho,Campus Universitario,2026-06-05 07:00,3,10.5,Completado
+VJ020,U041,Campus Universitario,Barranco,2026-06-04 14:15,1,4.5,Completado
+VJ021,U022,La Molina,Campus Universitario,2026-06-05 07:30,2,8.5,Completado
+VJ022,U067,San Miguel,Campus Universitario,2026-06-05 07:45,0,3.5,Completado
+VJ023,U091,Campus Universitario,Los Olivos,2026-06-11 14:00,3,8.5,Completado
+VJ024,U091,Campus Universitario,Los Olivos,2026-06-05 20:45,3,8.5,Completado
+VJ025,U025,Callao,Campus Universitario,2026-06-10 08:00,0,6.0,Completado
+VJ026,U080,San Juan de Lurigancho,Campus Universitario,2026-06-10 07:30,2,11.0,Completado
+VJ027,U085,Independencia,Campus Universitario,2026-06-08 08:00,3,8.5,Completado
+VJ028,U092,Callao,Campus Universitario,2026-06-06 12:00,3,5.0,Completado
+VJ029,U001,Campus Universitario,Pueblo Libre,2026-06-08 19:45,0,4.5,Completado
+VJ030,U067,Villa El Salvador,Campus Universitario,2026-06-12 07:30,4,10.0,Completado
+VJ031,U041,Campus Universitario,Barranco,2026-06-08 21:00,2,5.5,Completado
+VJ032,U020,Campus Universitario,Miraflores,2026-06-10 17:45,3,5.5,Completado
+VJ033,U067,Villa El Salvador,Campus Universitario,2026-06-08 07:15,2,10.5,Completado
+VJ034,U096,San Isidro,Campus Universitario,2026-06-09 06:45,1,4.5,Completado
+VJ035,U027,Pueblo Libre,Campus Universitario,2026-06-09 08:30,1,3.5,Completado
+VJ036,U023,San Isidro,Campus Universitario,2026-06-09 06:30,2,6.0,Completado
+VJ037,U092,Campus Universitario,Callao,2026-06-09 17:15,2,4.5,Completado
+VJ038,U038,Campus Universitario,Barranco,2026-06-09 20:15,0,6.0,Completado
+VJ039,U023,San Isidro,Campus Universitario,2026-06-12 06:30,0,5.5,Completado
+VJ040,U025,Campus Universitario,Callao,2026-06-10 18:30,2,6.0,Completado
+VJ041,U067,Campus Universitario,Independencia,2026-06-11 20:45,1,8.5,Completado
+VJ042,U096,Ate,Campus Universitario,2026-06-16 06:00,1,6.0,Completado
+VJ043,U085,Independencia,Campus Universitario,2026-06-12 07:30,3,7.5,Completado
+VJ044,U038,Campus Universitario,Barranco,2026-06-11 19:30,2,5.5,Completado
+VJ045,U022,Campus Universitario,La Molina,2026-06-11 20:30,0,7.5,Completado
+VJ046,U041,Barranco,Campus Universitario,2026-06-17 08:00,2,5.5,Completado
+VJ047,U036,Campus Universitario,Villa El Salvador,2026-06-11 21:30,3,13.0,Completado
+VJ048,U096,Ate,Campus Universitario,2026-06-13 08:15,2,7.5,Completado
+VJ049,U092,Campus Universitario,Callao,2026-06-18 16:45,1,5.0,Completado
+VJ050,U038,Barranco,Campus Universitario,2026-06-15 07:15,2,4.5,Completado
+VJ051,U020,Miraflores,Campus Universitario,2026-06-15 09:00,2,4.5,Completado
+VJ052,U099,Campus Universitario,San Isidro,2026-06-15 14:15,2,4.5,Completado
+VJ053,U067,Campus Universitario,Villa El Salvador,2026-06-15 21:30,2,10.5,Completado
+VJ054,U061,Campus Universitario,San Miguel,2026-06-17 19:45,2,3.5,Completado
+VJ055,U067,Villa El Salvador,Campus Universitario,2026-06-18 07:15,2,10.5,Completado
+VJ056,U001,Campus Universitario,Pueblo Libre,2026-06-16 22:00,2,5.0,Completado
+VJ057,U067,Campus Universitario,Villa El Salvador,2026-06-17 20:30,3,11.0,Completado
+VJ058,U003,Campus Universitario,Magdalena,2026-06-17 13:15,5,6.5,Completado
+VJ059,U022,Campus Universitario,La Molina,2026-06-17 12:30,2,8.0,Completado
+VJ060,U038,Barranco,Campus Universitario,2026-06-19 06:45,1,5.5,Completado
+VJ061,U085,Independencia,Campus Universitario,2026-06-18 07:30,2,8.5,Completado
+VJ062,U020,Campus Universitario,Miraflores,2026-06-17 13:15,1,4.5,Completado
+VJ063,U036,Villa El Salvador,Campus Universitario,2026-06-18 06:45,2,12.0,Completado
+VJ064,U067,Villa El Salvador,Campus Universitario,2026-06-19 07:15,4,11.0,Completado
+VJ065,U023,Campus Universitario,San Isidro,2026-06-17 19:15,1,6.0,Completado
+VJ066,U020,Miraflores,Campus Universitario,2026-06-19 08:45,1,5.0,Completado
+VJ067,U008,Pueblo Libre,Campus Universitario,2026-06-24 06:00,1,4.5,Completado
+VJ068,U041,Campus Universitario,Barranco,2026-06-23 21:30,2,4.5,Completado
+VJ069,U067,Campus Universitario,Villa El Salvador,2026-06-19 20:30,2,10.5,Completado
+VJ070,U008,Campus Universitario,Pueblo Libre,2026-06-24 14:15,3,4.5,Completado
+VJ071,U041,Campus Universitario,Barranco,2026-06-23 14:15,1,4.5,Completado
+VJ072,U092,Campus Universitario,Callao,2026-06-23 17:30,2,5.0,Completado
+VJ073,U067,Villa El Salvador,Campus Universitario,2026-06-22 07:15,0,10.5,Completado
+VJ074,U061,Campus Universitario,San Miguel,2026-06-22 19:00,2,3.0,Completado
+VJ075,U067,Campus Universitario,Villa El Salvador,2026-06-22 21:45,3,11.0,Completado
+VJ076,U041,Campus Universitario,Chorrillos,2026-06-22 21:00,0,6.0,Completado
+VJ077,U080,San Juan de Lurigancho,Campus Universitario,2026-06-24 08:45,4,11.0,Completado
+VJ078,U092,Callao,Campus Universitario,2026-06-23 08:00,1,5.5,Completado
+VJ079,U025,Campus Universitario,Callao,2026-06-24 14:15,2,5.5,Completado
+VJ080,U038,Barranco,Campus Universitario,2026-06-26 07:00,2,5.5,Completado
+VJ081,U008,Pueblo Libre,Campus Universitario,2026-06-25 06:30,1,4.5,Completado
+VJ082,U038,Campus Universitario,Barranco,2026-06-26 12:30,2,5.5,Completado
+VJ083,U091,Los Olivos,Campus Universitario,2026-07-03 07:30,3,8.5,Completado
+VJ084,U036,Villa El Salvador,Campus Universitario,2026-07-01 06:45,1,12.5,Completado
+VJ085,U061,San Miguel,Campus Universitario,2026-06-29 08:15,0,3.5,Completado
+VJ086,U099,Campus Universitario,San Borja,2026-06-29 19:00,0,4.0,Completado
+VJ087,U041,Barranco,Campus Universitario,2026-07-01 07:45,1,4.5,Completado
+VJ088,U001,Pueblo Libre,Campus Universitario,2026-06-29 06:30,0,4.0,Completado
+VJ089,U067,Campus Universitario,Villa El Salvador,2026-07-02 21:15,2,10.5,Completado
+VJ090,U085,Independencia,Campus Universitario,2026-06-30 07:30,4,8.0,Completado
+VJ091,U091,Campus Universitario,Los Olivos,2026-07-08 14:15,5,8.5,Completado
+VJ092,U099,Campus Universitario,San Isidro,2026-07-04 09:45,1,5.0,Completado
+VJ093,U003,Magdalena,Campus Universitario,2026-07-08 06:15,1,5.0,Completado
+VJ094,U025,Callao,Campus Universitario,2026-07-07 08:15,1,5.5,Completado
+VJ095,U091,Campus Universitario,Los Olivos,2026-07-07 14:00,2,8.5,Completado
+VJ096,U020,Campus Universitario,Comas,2026-07-06 17:45,3,10.0,Completado
+VJ097,U067,Villa El Salvador,Campus Universitario,2026-07-11 10:00,3,10.5,Completado
+VJ098,U067,Campus Universitario,Villa El Salvador,2026-07-06 20:15,3,11.0,Completado
+VJ099,U041,Barranco,Campus Universitario,2026-07-08 07:30,2,5.0,Completado
+VJ100,U067,Campus Universitario,Villa El Salvador,2026-07-09 21:00,2,10.5,Completado
+VJ101,U027,Independencia,Campus Universitario,2026-07-09 08:45,0,7.0,Completado
+VJ102,U085,Campus Universitario,Independencia,2026-07-13 17:30,2,8.0,Completado
+VJ103,U001,Pueblo Libre,Campus Universitario,2026-07-09 07:00,1,4.5,Completado
+VJ104,U036,Villa El Salvador,Campus Universitario,2026-07-09 06:00,2,12.0,Completado
+VJ105,U085,Campus Universitario,Independencia,2026-07-12 09:45,3,8.5,Completado
+VJ106,U020,Ate,Campus Universitario,2026-07-11 08:00,3,8.0,Completado
+VJ107,U008,Pueblo Libre,Campus Universitario,2026-07-13 06:00,0,4.5,Completado
+VJ108,U096,Ate,Campus Universitario,2026-07-14 06:45,1,6.5,Completado
+VJ109,U085,Independencia,Campus Universitario,2026-07-14 07:15,1,8.0,Completado
+VJ110,U038,Campus Universitario,Chorrillos,2026-07-14 20:00,1,7.0,Completado
+VJ111,U020,Miraflores,Campus Universitario,2026-07-13 08:30,0,5.0,Completado
+VJ112,U036,Campus Universitario,Villa El Salvador,2026-07-14 21:45,3,12.5,Completado
+VJ113,U091,Los Olivos,Campus Universitario,2026-07-16 07:15,3,8.5,Completado
+VJ114,U036,Villa El Salvador,Campus Universitario,2026-07-21 06:30,3,12.0,Completado
+VJ115,U092,Campus Universitario,Callao,2026-07-17 14:15,0,5.0,Completado
+VJ116,U067,Villa El Salvador,Campus Universitario,2026-07-20 07:15,0,11.0,Completado
+VJ117,U003,Campus Universitario,Magdalena,2026-07-22 18:30,0,6.0,Completado
+VJ118,U027,Campus Universitario,Independencia,2026-07-20 13:30,1,6.5,Completado
+VJ119,U036,Villa El Salvador,Campus Universitario,2026-07-23 06:45,2,12.5,Completado
+VJ120,U020,Campus Universitario,Miraflores,2026-07-22 18:15,1,4.5,Completado
+VJ121,U003,Campus Universitario,Magdalena,2026-07-20 18:45,3,5.0,Completado
+VJ122,U077,San Juan de Lurigancho,Campus Universitario,2026-07-22 07:30,1,9.0,Completado
+VJ123,U008,Campus Universitario,Pueblo Libre,2026-07-22 17:30,1,4.0,Completado
+VJ124,U085,Independencia,Campus Universitario,2026-07-24 07:30,2,8.5,Completado
+VJ125,U067,Villa El Salvador,Campus Universitario,2026-07-24 07:30,3,10.0,Completado
+VJ126,U008,Pueblo Libre,Campus Universitario,2026-07-30 06:15,1,4.5,Completado
+VJ127,U099,San Isidro,Campus Universitario,2026-07-25 10:15,4,4.5,Completado
+VJ128,U077,San Juan de Lurigancho,Campus Universitario,2026-07-27 07:45,2,10.0,Completado
+VJ129,U067,Villa El Salvador,Campus Universitario,2026-07-27 06:15,3,10.5,Completado
+VJ130,U099,San Isidro,Campus Universitario,2026-07-31 07:00,3,4.5,Completado
+VJ131,U041,Barranco,Campus Universitario,2026-08-03 07:45,2,5.0,Completado
+VJ132,U080,San Juan de Lurigancho,Campus Universitario,2026-08-03 07:45,4,11.0,Completado
+VJ133,U036,Campus Universitario,Villa El Salvador,2026-07-30 21:30,3,12.5,Completado
+VJ134,U091,Campus Universitario,Los Olivos,2026-07-30 21:00,4,8.5,Completado
+VJ135,U038,Barranco,Campus Universitario,2026-08-04 07:15,0,6.0,Completado
+VJ136,U077,Campus Universitario,San Juan de Lurigancho,2026-08-02 09:15,1,10.0,Completado
+VJ137,U067,Villa El Salvador,Campus Universitario,2026-08-03 07:30,1,10.0,Completado
+VJ138,U067,Campus Universitario,Villa El Salvador,2026-08-03 14:00,1,10.0,Completado
+VJ139,U085,Independencia,Campus Universitario,2026-08-04 07:15,1,8.5,Completado
+VJ140,U041,Campus Universitario,Callao,2026-08-03 20:45,2,5.5,Completado
+VJ141,U041,Barranco,Campus Universitario,2026-08-04 07:30,0,6.0,Completado
+VJ142,U036,Villa El Salvador,Campus Universitario,2026-08-06 06:00,1,12.5,Completado
+VJ143,U085,Campus Universitario,Independencia,2026-08-04 17:45,1,8.0,Completado
+VJ144,U099,Campus Universitario,San Isidro,2026-08-05 20:30,0,5.0,Completado
+VJ145,U020,Campus Universitario,Surco,2026-08-04 14:30,2,4.0,Completado
+VJ146,U027,Campus Universitario,Independencia,2026-08-04 14:00,2,7.0,Completado
+VJ147,U085,Campus Universitario,Independencia,2026-08-07 17:15,2,8.0,Completado
+VJ148,U020,Campus Universitario,Miraflores,2026-08-03 18:00,1,5.0,Completado
+VJ149,U067,Campus Universitario,Villa El Salvador,2026-08-03 20:45,4,11.0,Completado
+VJ150,U003,Magdalena,Campus Universitario,2026-08-04 06:30,0,5.5,Completado
+VJ151,U003,Magdalena,Campus Universitario,2026-08-05 06:45,1,5.5,Completado
+VJ152,U099,San Isidro,Campus Universitario,2026-08-04 08:00,1,5.0,Completado
+VJ153,U085,Campus Universitario,Independencia,2026-08-03 17:15,0,8.5,Completado
+VJ154,U023,Chorrillos,Campus Universitario,2026-08-05 06:45,3,8.0,Completado
+VJ155,U036,Campus Universitario,San Miguel,2026-08-05 21:15,0,4.5,Completado
+VJ156,U096,Ate,Campus Universitario,2026-08-06 07:00,3,6.5,Completado
+VJ157,U020,Campus Universitario,Miraflores,2026-08-06 14:15,1,5.5,Completado
+VJ158,U092,Callao,Campus Universitario,2026-08-11 07:15,0,5.0,Completado
+VJ159,U092,Campus Universitario,Callao,2026-08-06 13:30,3,5.5,Completado
+VJ160,U038,Barranco,Campus Universitario,2026-08-10 07:00,0,5.5,Completado
+VJ161,U067,Villa El Salvador,Campus Universitario,2026-08-10 08:15,1,10.5,Completado
+VJ162,U080,San Juan de Lurigancho,Campus Universitario,2026-08-14 07:45,1,10.5,Completado
+VJ163,U077,San Juan de Lurigancho,Campus Universitario,2026-08-10 08:15,1,9.5,Completado
+VJ164,U001,Campus Universitario,Pueblo Libre,2026-08-14 13:45,2,4.5,Completado
+VJ165,U022,La Molina,Campus Universitario,2026-08-10 07:45,2,8.0,Completado
+VJ166,U091,Los Olivos,Campus Universitario,2026-08-11 07:00,0,9.0,Completado
+VJ167,U003,Magdalena,Campus Universitario,2026-08-12 07:00,0,6.0,Completado
+VJ168,U027,Campus Universitario,Independencia,2026-08-11 20:30,1,7.0,Completado
+VJ169,U025,Callao,Campus Universitario,2026-08-11 07:30,0,5.0,Completado
+VJ170,U020,Miraflores,Campus Universitario,2026-08-11 08:15,0,4.5,Completado
+VJ171,U067,Villa El Salvador,Campus Universitario,2026-08-13 08:15,2,11.0,Completado
+VJ172,U036,Villa El Salvador,Campus Universitario,2026-08-13 06:15,1,12.5,Completado
+VJ173,U025,Campus Universitario,Callao,2026-08-11 19:15,0,5.0,Completado
+VJ174,U085,Campus Universitario,Independencia,2026-08-18 18:00,3,8.5,Completado
+VJ175,U067,Campus Universitario,Villa El Salvador,2026-08-17 20:30,3,10.5,Completado
+VJ176,U036,Villa El Salvador,Campus Universitario,2026-08-14 06:15,2,12.5,Completado
+VJ177,U027,Independencia,Campus Universitario,2026-08-15 13:30,2,6.5,Completado
+VJ178,U020,Campus Universitario,Miraflores,2026-08-14 19:00,3,5.5,Completado
+VJ179,U041,Campus Universitario,Barranco,2026-08-19 13:45,1,5.5,Completado
+VJ180,U001,Pueblo Libre,Campus Universitario,2026-08-17 06:30,1,4.0,Completado
+VJ181,U008,Pueblo Libre,Campus Universitario,2026-08-19 06:45,0,4.5,Completado
+VJ182,U038,Barranco,Campus Universitario,2026-08-20 07:30,1,5.0,Completado
+VJ183,U067,Campus Universitario,Villa El Salvador,2026-08-17 12:30,2,11.0,Completado
+VJ184,U096,Ate,Campus Universitario,2026-08-22 08:30,2,7.0,Completado
+VJ185,U041,Campus Universitario,Barranco,2026-08-17 20:00,1,5.0,Completado
+VJ186,U067,Villa El Salvador,Campus Universitario,2026-08-17 07:30,4,10.0,Completado
+VJ187,U067,Campus Universitario,Villa El Salvador,2026-08-18 14:15,2,10.5,Completado
+VJ188,U041,Barranco,Campus Universitario,2026-08-18 07:30,0,4.5,Completado
+VJ189,U091,Los Olivos,Campus Universitario,2026-08-17 07:15,2,8.5,Completado
+VJ190,U020,Campus Universitario,Miraflores,2026-08-17 18:45,1,5.5,Completado
+VJ191,U080,San Juan de Lurigancho,Campus Universitario,2026-08-21 07:45,4,11.0,Completado
+VJ192,U077,Villa El Salvador,Campus Universitario,2026-08-19 08:00,2,10.5,Completado
+VJ193,U020,Miraflores,Campus Universitario,2026-08-19 08:30,0,4.5,Completado
+VJ194,U041,Barranco,Campus Universitario,2026-08-24 08:00,2,5.0,Completado
+VJ195,U041,Barranco,Campus Universitario,2026-08-21 08:00,0,5.5,Completado
+VJ196,U001,Pueblo Libre,Campus Universitario,2026-08-19 06:30,1,3.5,Completado
+VJ197,U092,Campus Universitario,Callao,2026-08-18 17:30,0,5.0,Completado
+VJ198,U067,Villa El Salvador,Campus Universitario,2026-08-18 07:30,1,10.5,Completado
+VJ199,U077,Campus Universitario,San Juan de Lurigancho,2026-08-21 13:15,0,9.0,Completado
+VJ200,U091,Campus Universitario,Surco,2026-08-18 20:15,3,4.5,Completado
+VJ201,U067,Villa El Salvador,Campus Universitario,2026-08-21 07:15,2,10.0,Completado
+VJ202,U023,Campus Universitario,San Isidro,2026-08-21 19:30,1,6.0,Completado
+VJ203,U067,Campus Universitario,Villa El Salvador,2026-08-20 14:15,1,10.5,Completado
+VJ204,U061,San Miguel,Campus Universitario,2026-08-24 08:00,1,3.5,Completado
+VJ205,U038,Barranco,Campus Universitario,2026-08-24 06:45,1,5.5,Completado
+VJ206,U041,Barranco,Campus Universitario,2026-08-25 08:15,1,5.0,Completado
+VJ207,U036,Villa El Salvador,Campus Universitario,2026-08-21 06:15,1,12.5,Completado
+VJ208,U003,Campus Universitario,Magdalena,2026-08-24 19:00,3,5.5,Completado
+VJ209,U092,Callao,Campus Universitario,2026-08-24 07:15,0,5.0,Completado
+VJ210,U020,Campus Universitario,Miraflores,2026-08-25 12:45,1,4.5,Completado
+VJ211,U077,San Juan de Lurigancho,Campus Universitario,2026-08-26 07:15,2,9.5,Completado
+VJ212,U096,Campus Universitario,Independencia,2026-08-24 20:15,2,7.0,Completado
+VJ213,U020,Campus Universitario,Magdalena,2026-08-26 18:30,1,5.5,Completado
+VJ214,U020,Miraflores,Campus Universitario,2026-08-26 07:45,0,5.0,Completado
+VJ215,U003,Campus Universitario,Magdalena,2026-08-25 18:45,3,5.5,Completado
+VJ216,U003,Campus Universitario,Chorrillos,2026-08-25 13:30,3,7.5,Completado
+VJ217,U020,Miraflores,Campus Universitario,2026-08-27 08:30,1,5.0,Completado
+VJ218,U096,Campus Universitario,Ate,2026-08-25 21:15,1,6.5,Completado
+VJ219,U061,Barranco,Campus Universitario,2026-08-27 08:15,0,5.0,Completado
+VJ220,U091,Los Olivos,Campus Universitario,2026-08-27 06:45,2,8.5,Completado
+VJ221,U038,Campus Universitario,Barranco,2026-09-01 20:30,1,5.5,Completado
+VJ222,U036,La Molina,Campus Universitario,2026-08-28 06:30,1,7.5,Completado
+VJ223,U020,Campus Universitario,Miraflores,2026-09-01 14:15,2,4.5,Completado
+VJ224,U099,Campus Universitario,Pueblo Libre,2026-09-02 13:45,1,4.0,Completado
+VJ225,U020,Campus Universitario,Miraflores,2026-08-27 17:45,2,5.0,Completado
+VJ226,U085,Independencia,Campus Universitario,2026-08-29 11:00,2,8.0,Completado
+VJ227,U077,Campus Universitario,San Juan de Lurigancho,2026-09-01 19:15,1,9.0,Completado
+VJ228,U067,Campus Universitario,Villa El Salvador,2026-08-31 21:00,0,10.5,Completado
+VJ229,U020,Campus Universitario,Miraflores,2026-09-01 18:00,1,5.0,Completado
+VJ230,U061,San Miguel,Campus Universitario,2026-09-01 08:15,0,2.5,Completado
+VJ231,U038,Barranco,Campus Universitario,2026-09-01 07:15,2,5.5,Completado
+VJ232,U038,Campus Universitario,Barranco,2026-08-31 19:30,2,5.0,Completado
+VJ233,U041,Campus Universitario,Barranco,2026-09-02 13:15,0,5.5,Completado
+VJ234,U001,Pueblo Libre,Campus Universitario,2026-09-04 06:15,1,4.0,Completado
+VJ235,U096,Ate,Campus Universitario,2026-08-31 06:15,0,6.5,Completado
+VJ236,U099,Campus Universitario,San Isidro,2026-09-02 20:15,2,5.0,Completado
+VJ237,U036,Villa El Salvador,Campus Universitario,2026-09-04 06:45,1,12.0,Completado
+VJ238,U067,Villa El Salvador,Campus Universitario,2026-09-03 07:45,1,10.0,Completado
+VJ239,U023,Campus Universitario,San Isidro,2026-09-01 19:45,1,6.0,Completado
+VJ240,U067,Villa El Salvador,Campus Universitario,2026-09-04 06:45,1,10.5,Completado
+VJ241,U067,Campus Universitario,Villa El Salvador,2026-09-04 21:30,3,10.5,Completado
+VJ242,U023,San Isidro,Campus Universitario,2026-09-01 06:45,1,5.5,Completado
+VJ243,U092,Callao,Campus Universitario,2026-09-02 07:15,1,5.5,Completado
+VJ244,U022,Campus Universitario,La Molina,2026-09-02 20:00,1,8.0,Completado
+VJ245,U027,Campus Universitario,Lince,2026-09-05 08:30,2,4.0,Completado
+VJ246,U041,Campus Universitario,Barranco,2026-09-03 20:00,0,6.0,Completado
+VJ247,U003,Magdalena,Campus Universitario,2026-09-05 11:15,3,6.0,Completado
+VJ248,U008,Pueblo Libre,Campus Universitario,2026-09-09 06:15,2,4.0,Completado
+VJ249,U003,Campus Universitario,Magdalena,2026-09-09 18:30,2,5.5,Completado
+VJ250,U020,Campus Universitario,Comas,2026-09-04 14:30,4,10.0,Completado
+VJ251,U096,Campus Universitario,Los Olivos,2026-09-10 19:45,1,6.0,Completado
+VJ252,U061,Campus Universitario,San Miguel,2026-09-08 18:45,0,3.0,Completado
+VJ253,U020,Miraflores,Campus Universitario,2026-09-09 08:45,3,5.0,Completado
+VJ254,U080,Campus Universitario,San Juan de Lurigancho,2026-09-09 20:15,3,10.5,Completado
+VJ255,U091,Campus Universitario,Villa El Salvador,2026-09-08 14:15,2,12.0,Completado
+VJ256,U099,San Isidro,Campus Universitario,2026-09-07 08:00,1,5.5,Completado
+VJ257,U096,Ate,Campus Universitario,2026-09-07 06:45,1,6.5,Completado
+VJ258,U038,Campus Universitario,Barranco,2026-09-08 20:30,2,5.5,Completado
+VJ259,U041,Independencia,Campus Universitario,2026-09-09 07:45,2,7.0,Completado
+VJ260,U041,Campus Universitario,Barranco,2026-09-08 20:45,1,5.0,Completado
+VJ261,U023,Campus Universitario,San Isidro,2026-09-08 20:00,1,6.0,Completado
+VJ262,U020,Campus Universitario,Miraflores,2026-09-10 14:00,1,5.0,Completado
+VJ263,U008,Campus Universitario,Pueblo Libre,2026-09-09 14:00,1,4.0,Completado
+VJ264,U036,Campus Universitario,Villa El Salvador,2026-09-09 20:45,1,12.0,Completado
+VJ265,U036,Surquillo,Campus Universitario,2026-09-11 06:30,1,6.0,Completado
+VJ266,U003,Campus Universitario,Los Olivos,2026-09-10 12:30,3,7.5,Completado
+VJ267,U008,Campus Universitario,Pueblo Libre,2026-09-10 16:45,2,4.5,Completado
+VJ268,U067,Campus Universitario,Villa El Salvador,2026-09-10 20:30,1,11.0,Completado
+VJ269,U041,Barranco,Campus Universitario,2026-09-11 07:45,0,5.0,Completado
+VJ270,U067,Villa El Salvador,Campus Universitario,2026-09-11 07:30,2,10.5,Completado
+VJ271,U036,Campus Universitario,Villa El Salvador,2026-09-11 21:15,2,12.0,Completado
+VJ272,U020,Miraflores,Campus Universitario,2026-09-10 08:00,0,5.5,Completado
+VJ273,U092,Callao,Campus Universitario,2026-09-10 07:15,1,5.5,Completado
+VJ274,U092,Campus Universitario,Callao,2026-09-11 12:30,2,5.5,Completado
+VJ275,U067,Campus Universitario,Pueblo Libre,2026-09-11 21:15,0,4.5,Completado
+VJ276,U067,San Borja,Campus Universitario,2026-09-10 07:45,1,4.5,Completado
+VJ277,U041,Campus Universitario,Surco,2026-09-11 14:15,0,3.0,Completado
+VJ278,U008,Barranco,Campus Universitario,2026-09-16 06:15,2,5.5,Completado
+VJ279,U099,San Isidro,Campus Universitario,2026-09-12 08:30,2,5.0,Completado
+VJ280,U067,Campus Universitario,Villa El Salvador,2026-09-18 20:15,3,11.0,Completado
+VJ281,U041,Independencia,Campus Universitario,2026-09-15 08:30,1,7.5,Completado
+VJ282,U036,Villa El Salvador,Campus Universitario,2026-09-17 06:45,0,12.5,Completado
+VJ283,U067,San Miguel,Campus Universitario,2026-09-17 07:00,0,3.5,Completado
+VJ284,U041,Barranco,Campus Universitario,2026-09-14 07:45,1,5.0,Completado
+VJ285,U025,Campus Universitario,Callao,2026-09-16 13:15,0,5.5,Completado
+VJ286,U067,Villa El Salvador,Campus Universitario,2026-09-14 07:15,3,10.5,Completado
+VJ287,U036,Villa El Salvador,Campus Universitario,2026-09-18 06:45,3,12.0,Completado
+VJ288,U027,Campus Universitario,Independencia,2026-09-15 22:00,1,7.0,Completado
+VJ289,U096,Campus Universitario,Ate,2026-09-15 21:15,1,6.0,Completado
+VJ290,U085,Campus Universitario,Independencia,2026-09-17 17:30,1,7.5,Completado
+VJ291,U003,Magdalena,Campus Universitario,2026-09-16 06:45,2,5.5,Completado
+VJ292,U020,Campus Universitario,Miraflores,2026-09-17 18:00,0,4.5,Completado
+VJ293,U067,Campus Universitario,Villa El Salvador,2026-09-18 13:45,2,11.5,Completado
+VJ294,U099,Campus Universitario,San Isidro,2026-09-21 19:45,1,4.5,Completado
+VJ295,U001,Campus Universitario,Pueblo Libre,2026-09-16 20:15,2,4.5,Completado
+VJ296,U020,Miraflores,Campus Universitario,2026-09-18 08:30,1,5.5,Completado
+VJ297,U099,San Isidro,Campus Universitario,2026-09-19 13:30,1,4.5,Completado
+VJ298,U001,Campus Universitario,Pueblo Libre,2026-09-22 13:00,0,4.0,Completado
+VJ299,U020,Miraflores,Campus Universitario,2026-09-21 09:30,1,5.0,Completado
+VJ300,U067,Villa El Salvador,Campus Universitario,2026-09-18 07:45,2,10.5,Completado
+VJ301,U020,Campus Universitario,Miraflores,2026-09-21 18:15,1,5.0,Completado
+VJ302,U067,Villa El Salvador,Campus Universitario,2026-09-21 08:00,1,10.5,Completado
+VJ303,U036,Campus Universitario,Villa El Salvador,2026-09-23 14:15,3,12.5,Completado
+VJ304,U067,Campus Universitario,Villa El Salvador,2026-09-21 20:30,4,10.0,Completado
+VJ305,U085,Independencia,Campus Universitario,2026-09-22 08:00,1,8.5,Completado
+VJ306,U027,Independencia,Campus Universitario,2026-09-24 08:30,0,7.0,Completado
+VJ307,U027,Campus Universitario,Independencia,2026-09-22 14:15,0,7.0,Completado
+VJ308,U036,Villa El Salvador,Campus Universitario,2026-09-22 07:00,2,12.0,Completado
+VJ309,U096,Campus Universitario,Ate,2026-09-22 20:30,1,7.0,Completado
+VJ310,U092,Ate,Campus Universitario,2026-09-22 07:30,2,7.0,Completado
+VJ311,U025,Campus Universitario,Callao,2026-09-22 13:30,1,5.5,Completado
+VJ312,U027,Independencia,Campus Universitario,2026-09-22 08:30,1,7.0,Completado
+VJ313,U085,Independencia,Campus Universitario,2026-09-23 07:15,0,8.0,Completado
+VJ314,U067,Campus Universitario,Villa El Salvador,2026-09-24 21:15,2,11.0,Completado
+VJ315,U067,Villa El Salvador,Campus Universitario,2026-09-23 07:15,2,10.0,Completado
+VJ316,U092,Campus Universitario,Comas,2026-09-25 16:45,0,8.5,Completado
+VJ317,U038,Campus Universitario,Barranco,2026-09-25 14:00,1,5.0,Completado
+VJ318,U099,San Isidro,Campus Universitario,2026-09-23 07:30,2,4.5,Completado
+VJ319,U020,Miraflores,Campus Universitario,2026-09-25 09:00,1,5.5,Completado
+VJ320,U091,Campus Universitario,Los Olivos,2026-09-23 21:00,1,8.5,Completado
+VJ321,U036,Campus Universitario,Villa El Salvador,2026-09-23 21:30,3,12.5,Completado
+VJ322,U091,Los Olivos,Campus Universitario,2026-09-25 06:45,5,9.0,Completado
+VJ323,U020,Campus Universitario,Miraflores,2026-09-25 18:45,3,5.5,Completado
+VJ324,U067,Villa El Salvador,Campus Universitario,2026-09-26 11:15,2,11.0,Completado
+VJ325,U061,Campus Universitario,San Miguel,2026-10-01 20:15,0,3.0,Completado
+VJ326,U067,Campus Universitario,Villa El Salvador,2026-09-28 20:30,3,10.0,Completado
+VJ327,U001,Pueblo Libre,Campus Universitario,2026-09-28 07:00,0,4.0,Completado
+VJ328,U092,Callao,Campus Universitario,2026-09-28 07:45,0,5.0,Completado
+VJ329,U003,Campus Universitario,Magdalena,2026-10-03 08:00,2,5.5,Completado
+VJ330,U001,Pueblo Libre,Campus Universitario,2026-09-29 07:00,0,4.0,Completado
+VJ331,U091,Campus Universitario,Los Olivos,2026-09-30 13:45,3,8.5,Completado
+VJ332,U025,Callao,Campus Universitario,2026-09-29 08:15,2,5.0,Completado
+VJ333,U041,Barranco,Campus Universitario,2026-09-29 07:30,0,5.0,Completado
+VJ334,U041,Campus Universitario,Barranco,2026-09-29 20:45,0,4.5,Completado
+VJ335,U008,Campus Universitario,Pueblo Libre,2026-09-30 16:45,1,4.5,Completado
+VJ336,U036,Campus Universitario,Miraflores,2026-10-01 21:15,1,5.5,Completado
+VJ337,U020,Miraflores,Campus Universitario,2026-09-29 08:15,0,5.5,Completado
+VJ338,U036,Villa El Salvador,Campus Universitario,2026-10-01 06:30,0,12.0,Completado
+VJ339,U036,Campus Universitario,Jesus Maria,2026-09-30 21:30,1,6.0,Completado
+VJ340,U067,Campus Universitario,Villa El Salvador,2026-10-01 21:00,1,10.0,Completado
+VJ341,U025,Campus Universitario,Callao,2026-10-01 14:00,0,5.5,Completado
+VJ342,U041,Barranco,Campus Universitario,2026-09-30 07:45,1,4.5,Completado
+VJ343,U020,Campus Universitario,Miraflores,2026-10-02 14:15,0,5.0,Completado
+VJ344,U038,Barranco,Campus Universitario,2026-09-30 06:45,1,6.0,Completado
+VJ345,U020,Miraflores,Campus Universitario,2026-10-01 09:00,1,4.5,Completado
+VJ346,U041,San Juan de Lurigancho,Campus Universitario,2026-10-02 08:00,0,8.5,Completado
+VJ347,U067,Villa El Salvador,Campus Universitario,2026-10-02 07:45,2,10.5,Completado
+VJ348,U038,Barranco,Campus Universitario,2026-10-02 07:15,0,5.5,Completado
+VJ349,U023,Campus Universitario,San Isidro,2026-10-03 11:45,0,5.0,Completado
+VJ350,U036,Pueblo Libre,Campus Universitario,2026-10-07 06:15,1,5.5,Completado
+VJ351,U027,Campus Universitario,Independencia,2026-10-05 21:00,2,7.5,Completado
+VJ352,U027,Pueblo Libre,Campus Universitario,2026-10-04 12:00,1,4.0,Completado
+VJ353,U020,Miraflores,Campus Universitario,2026-10-05 08:30,0,6.0,Completado
+VJ354,U041,Barranco,Campus Universitario,2026-10-06 07:45,2,5.0,Completado
+VJ355,U091,Campus Universitario,Independencia,2026-10-07 13:45,4,9.5,Completado
+VJ356,U077,Campus Universitario,San Juan de Lurigancho,2026-10-05 18:00,1,9.5,Completado
+VJ357,U041,Campus Universitario,Barranco,2026-10-05 20:45,2,5.0,Completado
+VJ358,U091,Los Olivos,Campus Universitario,2026-10-06 07:15,3,9.0,Completado
+VJ359,U067,Villa El Salvador,Campus Universitario,2026-10-05 07:30,2,10.5,Completado
+VJ360,U038,Barranco,Campus Universitario,2026-10-06 07:30,0,5.5,Completado
+VJ361,U067,Campus Universitario,Miraflores,2026-10-05 21:15,1,5.0,Completado
+VJ362,U099,Campus Universitario,San Isidro,2026-10-07 20:45,2,4.5,Completado
+VJ363,U085,Campus Universitario,Independencia,2026-10-06 17:00,1,8.0,Completado
+VJ364,U027,Independencia,Campus Universitario,2026-10-05 08:15,0,7.0,Completado
+VJ365,U001,Pueblo Libre,Campus Universitario,2026-10-06 06:45,1,4.5,Completado
+VJ366,U099,Campus Universitario,San Isidro,2026-10-10 12:15,2,5.0,Completado
+VJ367,U003,Campus Universitario,Magdalena,2026-10-07 18:15,3,6.5,Completado
+VJ368,U061,Campus Universitario,San Miguel,2026-10-06 13:30,0,2.5,Completado
+VJ369,U020,Campus Universitario,Miraflores,2026-10-07 17:45,1,5.0,Completado
+VJ370,U022,La Molina,Campus Universitario,2026-10-05 07:00,1,7.5,Completado
+VJ371,U020,Miraflores,Campus Universitario,2026-10-07 08:45,0,5.0,Completado
+VJ372,U041,San Miguel,Campus Universitario,2026-10-07 07:30,0,3.0,Completado
+VJ373,U036,Campus Universitario,Villa El Salvador,2026-10-07 21:00,3,13.0,Completado
+VJ374,U023,San Isidro,Campus Universitario,2026-10-09 06:30,0,5.5,Completado
+VJ375,U020,Campus Universitario,Miraflores,2026-10-09 13:00,1,5.0,Completado
+VJ376,U061,Campus Universitario,San Miguel,2026-10-07 13:15,0,3.0,Completado
+VJ377,U003,La Molina,Campus Universitario,2026-10-12 06:45,2,7.0,Completado
+VJ378,U041,Barranco,Campus Universitario,2026-10-09 07:45,0,5.0,Completado
+VJ379,U091,Campus Universitario,Los Olivos,2026-10-07 20:30,2,9.0,Completado
+VJ380,U080,San Juan de Lurigancho,Campus Universitario,2026-10-09 08:00,2,10.5,Completado
+VJ381,U020,Miraflores,Campus Universitario,2026-10-10 10:15,1,5.0,Completado
+VJ382,U036,Villa El Salvador,Campus Universitario,2026-10-09 06:30,1,12.5,Completado
+VJ383,U023,Campus Universitario,San Isidro,2026-10-09 20:45,1,5.5,Completado
+VJ384,U020,Miraflores,Campus Universitario,2026-10-12 08:30,0,5.5,Completado
+VJ385,U085,Independencia,Campus Universitario,2026-10-10 12:30,1,7.5,Completado
+VJ386,U038,Barranco,Campus Universitario,2026-10-12 07:15,0,6.0,Completado
+VJ387,U023,San Isidro,Campus Universitario,2026-10-13 06:30,2,6.5,Completado
+VJ388,U092,Campus Universitario,Callao,2026-10-16 14:15,1,5.0,Completado
+VJ389,U085,Pueblo Libre,Campus Universitario,2026-10-12 06:45,2,4.5,Completado
+VJ390,U023,Magdalena,Campus Universitario,2026-10-14 06:45,0,5.0,Completado
+VJ391,U003,Campus Universitario,Magdalena,2026-10-12 18:45,0,6.0,Completado
+VJ392,U041,Barranco,Campus Universitario,2026-10-13 08:00,0,5.5,Completado
+VJ393,U023,Campus Universitario,San Isidro,2026-10-14 20:30,2,5.5,Completado
+VJ394,U036,Villa El Salvador,Campus Universitario,2026-10-13 06:15,1,12.5,Completado
+VJ395,U038,Barranco,Campus Universitario,2026-10-13 07:00,0,6.0,Completado
+VJ396,U003,Magdalena,Campus Universitario,2026-10-14 06:00,3,5.5,Completado
+VJ397,U003,Campus Universitario,Magdalena,2026-10-16 18:45,3,5.5,Completado
+VJ398,U025,Campus Universitario,Callao,2026-10-13 19:00,0,5.5,Completado
+VJ399,U067,Campus Universitario,Villa El Salvador,2026-10-15 14:15,2,10.5,Completado
+VJ400,U067,Villa El Salvador,Campus Universitario,2026-10-15 07:45,3,10.5,Completado
+VJ401,U036,Villa El Salvador,Campus Universitario,2026-10-14 06:45,0,12.0,Completado
+VJ402,U067,Independencia,Campus Universitario,2026-10-16 07:45,1,8.0,Completado
+VJ403,U020,Campus Universitario,Miraflores,2026-10-15 18:00,1,5.0,Completado
+VJ404,U067,Villa El Salvador,Campus Universitario,2026-10-14 07:30,1,10.5,Completado
+VJ405,U036,Campus Universitario,Villa El Salvador,2026-10-16 21:15,2,12.5,Completado
+VJ406,U099,Campus Universitario,Los Olivos,2026-10-16 19:45,2,7.0,Completado
+VJ407,U067,Campus Universitario,Villa El Salvador,2026-10-15 21:00,3,10.0,Completado
+VJ408,U008,Pueblo Libre,Campus Universitario,2026-10-16 06:45,0,4.5,Completado
+VJ409,U096,Campus Universitario,Ate,2026-10-19 14:15,2,7.0,Completado
+VJ410,U022,Campus Universitario,La Molina,2026-10-16 19:15,1,7.5,Completado
+VJ411,U096,Campus Universitario,Ate,2026-10-19 20:15,2,6.5,Completado
+VJ412,U027,Campus Universitario,Independencia,2026-10-22 13:15,0,6.5,Completado
+VJ413,U099,San Isidro,Campus Universitario,2026-10-20 07:30,2,5.0,Completado
+VJ414,U041,Barranco,Campus Universitario,2026-10-21 07:30,0,5.0,Completado
+VJ415,U067,Campus Universitario,Villa El Salvador,2026-10-19 13:45,3,11.0,Completado
+VJ416,U067,Campus Universitario,Villa El Salvador,2026-10-19 21:15,3,11.0,Completado
+VJ417,U003,Magdalena,Campus Universitario,2026-10-19 06:30,0,5.0,Completado
+VJ418,U022,La Molina,Campus Universitario,2026-10-21 07:45,1,7.5,Completado
+VJ419,U099,San Isidro,Campus Universitario,2026-10-19 07:45,1,5.0,Completado
+VJ420,U077,San Juan de Lurigancho,Campus Universitario,2026-10-19 08:00,2,9.5,Completado
+VJ421,U020,Campus Universitario,Miraflores,2026-10-19 18:15,2,5.0,Completado
+VJ422,U061,Campus Universitario,Surco,2026-10-20 19:00,0,3.5,Completado
+VJ423,U099,Campus Universitario,San Isidro,2026-10-19 20:15,1,4.5,Completado
+VJ424,U001,Campus Universitario,Pueblo Libre,2026-10-19 20:30,1,4.0,Completado
+VJ425,U091,Campus Universitario,Los Olivos,2026-10-20 21:00,2,8.5,Completado
+VJ426,U096,Ate,Campus Universitario,2026-10-20 06:15,0,7.0,Completado
+VJ427,U092,Callao,Campus Universitario,2026-10-22 07:15,1,5.0,Completado
+VJ428,U096,Campus Universitario,Ate,2026-10-20 21:00,2,7.0,Completado
+VJ429,U085,Independencia,Campus Universitario,2026-10-20 08:00,2,8.0,Completado
+VJ430,U096,San Isidro,Campus Universitario,2026-10-24 10:45,1,4.5,Completado
+VJ431,U092,Campus Universitario,San Juan de Lurigancho,2026-10-20 17:30,2,8.0,Completado
+VJ432,U067,Campus Universitario,Villa El Salvador,2026-10-21 21:15,2,11.0,Completado
+VJ433,U001,Pueblo Libre,Campus Universitario,2026-10-22 06:45,0,4.5,Completado
+VJ434,U003,Campus Universitario,Magdalena,2026-10-22 12:30,0,5.5,Completado
+VJ435,U061,Campus Universitario,San Miguel,2026-10-22 12:45,1,2.5,Completado
+VJ436,U099,Chorrillos,Campus Universitario,2026-10-24 12:15,2,6.5,Completado
+VJ437,U067,Villa El Salvador,Campus Universitario,2026-10-24 11:15,4,10.5,Completado
+VJ438,U067,Villa El Salvador,Campus Universitario,2026-10-29 06:45,1,10.5,Completado
+VJ439,U027,Independencia,Campus Universitario,2026-10-27 08:15,1,7.0,Completado
+VJ440,U041,Campus Universitario,San Juan de Lurigancho,2026-10-28 13:45,1,8.5,Completado
+VJ441,U096,Ate,Campus Universitario,2026-11-03 06:45,1,6.5,Publicado
+VJ442,U020,Campus Universitario,Miraflores,2026-10-28 18:15,0,4.5,Completado
+VJ443,U001,Pueblo Libre,Campus Universitario,2026-10-24 10:15,1,3.5,Completado
+VJ444,U041,Campus Universitario,Independencia,2026-11-05 12:45,2,7.0,Publicado
+VJ445,U092,Campus Universitario,San Miguel,2026-10-26 12:45,1,3.5,Completado
+VJ446,U067,Villa El Salvador,Campus Universitario,2026-10-26 07:00,1,11.0,Completado
+VJ447,U067,Campus Universitario,Villa El Salvador,2026-11-19 21:00,2,10.5,Publicado
+VJ448,U027,Independencia,Campus Universitario,2026-10-31 11:30,2,7.5,Completado
+VJ449,U027,Independencia,Campus Universitario,2026-11-03 08:30,2,7.0,Publicado
+VJ450,U096,Campus Universitario,Ate,2026-10-27 21:30,2,6.5,Completado
+VJ451,U085,Pueblo Libre,Campus Universitario,2026-10-31 12:30,2,5.0,Completado
+VJ452,U091,Los Olivos,Campus Universitario,2026-10-28 07:00,0,8.5,Completado
+VJ453,U067,Campus Universitario,Villa El Salvador,2026-10-26 13:30,2,10.5,Completado
+VJ454,U003,Magdalena,Campus Universitario,2026-10-27 06:45,0,6.5,Completado
+VJ455,U008,Pueblo Libre,Campus Universitario,2026-11-20 06:30,2,4.0,Publicado
+VJ456,U022,Campus Universitario,La Molina,2026-10-26 12:45,2,7.5,Completado
+VJ457,U020,Miraflores,Campus Universitario,2026-10-27 08:30,0,5.0,Completado
+VJ458,U025,Campus Universitario,Callao,2026-10-27 20:15,2,5.5,Completado
+VJ459,U067,Campus Universitario,San Isidro,2026-11-09 20:30,0,5.5,Lleno
+VJ460,U003,Campus Universitario,Magdalena,2026-10-27 18:30,2,6.0,Completado
+VJ461,U091,Los Olivos,Campus Universitario,2026-10-27 06:45,3,8.5,Completado
+VJ462,U092,Callao,Campus Universitario,2026-10-26 07:00,0,5.0,Completado
+VJ463,U077,Campus Universitario,San Juan de Lurigancho,2026-10-27 19:15,3,9.5,Completado
+VJ464,U036,Villa El Salvador,Campus Universitario,2026-10-28 06:15,0,12.5,Completado
+VJ465,U003,Surco,Campus Universitario,2026-10-28 06:15,2,3.5,Completado
+VJ466,U001,Pueblo Libre,Campus Universitario,2026-10-28 06:45,0,4.5,Completado
+VJ467,U027,Independencia,Campus Universitario,2026-11-16 08:30,4,7.0,Publicado
+VJ468,U008,Pueblo Libre,Campus Universitario,2026-11-02 06:45,1,4.0,Publicado
+VJ469,U061,Campus Universitario,San Miguel,2026-11-11 20:30,0,2.5,Lleno
+VJ470,U003,Magdalena,Campus Universitario,2026-11-03 06:30,2,6.0,Publicado
+VJ471,U036,Villa El Salvador,Campus Universitario,2026-11-04 07:15,3,12.0,Publicado
+VJ472,U038,Campus Universitario,Barranco,2026-10-29 20:30,0,5.5,Completado
+VJ473,U041,Campus Universitario,San Borja,2026-10-28 21:30,1,3.0,Completado
+VJ474,U036,Campus Universitario,Villa El Salvador,2026-10-29 22:00,0,12.5,Completado
+VJ475,U038,Campus Universitario,Barranco,2026-10-30 19:15,0,5.0,Completado
+VJ476,U061,Campus Universitario,San Miguel,2026-10-29 20:00,0,3.0,Completado
+VJ477,U036,Campus Universitario,Villa El Salvador,2026-10-28 20:30,1,12.0,Completado
+VJ478,U022,Campus Universitario,La Molina,2026-11-11 20:45,1,7.5,Publicado
+VJ479,U001,Pueblo Libre,Campus Universitario,2026-11-02 06:30,4,4.0,Publicado
+VJ480,U061,San Miguel,Campus Universitario,2026-11-19 08:15,1,3.5,Publicado
+VJ481,U091,Los Olivos,Campus Universitario,2026-10-29 07:30,3,8.5,Completado
+VJ482,U092,Campus Universitario,Callao,2026-11-19 13:00,2,5.0,Publicado
+VJ483,U085,Campus Universitario,Independencia,2026-10-30 16:30,2,8.5,Completado
+VJ484,U001,Campus Universitario,Villa El Salvador,2026-11-02 21:45,2,9.5,Publicado
+VJ485,U023,San Isidro,Campus Universitario,2026-11-18 06:30,2,6.0,Publicado
+VJ486,U091,Los Olivos,Campus Universitario,2026-11-18 07:00,3,8.0,Publicado
+VJ487,U067,Campus Universitario,Villa El Salvador,2026-10-30 20:45,2,11.0,Completado
+VJ488,U041,Campus Universitario,Barranco,2026-10-30 20:15,0,5.0,Completado
+VJ489,U008,Campus Universitario,Pueblo Libre,2026-11-12 17:15,0,4.0,Lleno
+VJ490,U041,Barranco,Campus Universitario,2026-11-02 08:15,0,5.0,Lleno
+VJ491,U085,Independencia,Campus Universitario,2026-11-05 07:45,3,8.0,Publicado
+VJ492,U022,Campus Universitario,Lince,2026-11-10 13:15,3,6.0,Publicado
+VJ493,U036,San Miguel,Campus Universitario,2026-11-20 07:00,3,5.0,Publicado
+VJ494,U096,Campus Universitario,Ate,2026-11-17 14:15,1,7.0,Publicado
+VJ495,U085,Independencia,Campus Universitario,2026-11-02 07:45,0,8.0,Lleno
+VJ496,U067,Villa El Salvador,Campus Universitario,2026-11-13 08:00,4,10.0,Publicado
+VJ497,U085,Campus Universitario,Independencia,2026-11-02 16:30,4,8.5,Publicado
+VJ498,U008,Campus Universitario,Jesus Maria,2026-11-11 17:00,4,4.5,Publicado

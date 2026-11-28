@@ -5,4 +5,3 @@ fastapi
 uvicorn
 pandas
 python-dotenv
-Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
